@@ -18,4 +18,3 @@ imageAlt: as you can se some dope sneakers
 * delta
 * bravo
 
-![ppp](/assets/blog/zrzut ekranu 2023-10-14 194141.png)
