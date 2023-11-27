@@ -20,7 +20,7 @@ imageAlt: as you can se some dope sneakers
 
 **Pogrubienie treści **_a tutaj obok kursywa _[_http://www.lgdchelmno.pl/_](http://www.lgdchelmno.pl/)\_ \_<-Można wstawiać linki
 
-![se](/assets/blog/zrzut ekranu 2023-10-18 121751.png)
+![se](public/assets/blog/zrzut ekranu 2023-10-18 121751.png)
 
 ![se](/assets/blog/zrzut ekranu 2023-10-14 194141.png)
 
